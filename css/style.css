@@ -1,0 +1,31 @@
+
+h1 {
+    font-family: 'Amatic SC', sans-serif;
+    font-size: 9rem;
+    color: #161a30;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: #b6bbc4!important;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 2;
+}
+
+p{
+    font-size: 35px;
+    font-family: 'Merriweather', serif;
+    font-weight: 200;
+
+}
+.my-font p{
+    font-family: 'Lato', sans-serif;
+}
+
+button:hover{
+    background-color: #161a30!important;
+    color: #fff!important;
+}
+
+
